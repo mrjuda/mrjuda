@@ -26,12 +26,7 @@
 </br>
 <div>
   <h2 align="center">🥷🏽 What I do</h2>
-  <div align="right">
-    <h3>📱 I code with</h3>
-    <a href="https://twitter.com/judalabs"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="5%"/></a>  &nbsp; <a href="https://www.linkedin.com/in/judateixeira/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/></a>  &nbsp; <a href="https://www.facebook.com/judalabs/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="5%"/></a>  &nbsp; <a href="https://instagram.com/judalabs"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="5%"/></a>
-  </div>
-  <div align="left">
-    <h3>📊 My stats<br/></h3>
-    <a href="https://instagram.com/judalabs"><img src="https://github-readme-stats.vercel.app/api?username=mrjuda&show_icons=true&theme=dark&layout=compact"></a>
-  </div>
+  <a href="https://instagram.com/judalabs"><img align="right" src="https://github-readme-stats.vercel.app/api?username=mrjuda&show_icons=true&theme=dark&layout=compact"></a>
+
+  <a href="https://twitter.com/judalabs"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="5%"/></a>  &nbsp; <a href="https://www.linkedin.com/in/judateixeira/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/></a>  &nbsp; <a href="https://www.facebook.com/judalabs/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="5%"/></a>  &nbsp; <a href="https://instagram.com/judalabs"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="5%"/></a>
 </div>
