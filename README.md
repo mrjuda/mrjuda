@@ -15,6 +15,7 @@
 💬 Ask me about: cooking, traveling Brazil and dogs</br>
 🎵 I play guitar, sing and write songs</br>
 </br>
+<h4>📱 Get in touch</h4>
 <a href="https://twitter.com/judalabs"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="4%"/></a>  &nbsp;
 <a href="https://www.linkedin.com/in/judateixeira/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/></a>  &nbsp;
 <a href="https://www.facebook.com/judalabs/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="4%"/></a>  &nbsp;
