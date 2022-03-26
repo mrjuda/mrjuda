@@ -24,4 +24,4 @@
 
 </br>
 <h2 align="center">📊 My stats<br/></h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrjuda&show_icons=true&theme=dark&layout=compact" href="https://instagram.com/judalabs">
+<a href="https://instagram.com/judalabs"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrjuda&show_icons=true&theme=dark&layout=compact"></a>
