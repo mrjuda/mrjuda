@@ -3,7 +3,7 @@
 <h1 align="center">👋🏽 I'm Judá Teixeira. Welcome!</h1>
 <h3 align="center">💻 A Full Stack developer and Computer Networks Engineer from Brazil</h3>
 
-<h2 align="center">😉 About me</h2>
+<!-- <h2 align="center">😉 About me</h2> -->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjuda&theme=dark&layout=compact">
 
