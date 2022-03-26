@@ -1,4 +1,7 @@
-<h1>I'm Judá Teixeira. Welcome!</h1>
+# I'm Judá Teixeira. Welcome! 👋🏽
+
+<img src="./images/judalabs-banner.png" alt="Judá Teixeira Software Labs' banner with the JudaLabs logo alongside a black and white picture of Judá">
+
 <p>📍 Location: Natal, Brazil</p>
 <p>🌱 I’m learning: JavaScript, React, Ruby, RoR, and + at Microverse.</p>
 <p>💼 I'm currently looking for new opportunities</p>
