@@ -26,7 +26,7 @@
   <h2 align="center">🥷🏽 What I do</h2>
   <a href="https://instagram.com/judalabs"><img align="right" src="https://github-readme-stats.vercel.app/api?username=mrjuda&show_icons=true&theme=dark&layout=compact"></a>
   <div align="center">
-    <h3>Languages I speak</h3>
+    <h4>Languages I speak</h4>
     <a href="#"><img src="./icons/javascript.png" width="5%"/></a>  &nbsp;
     <a href="#"><img src="./icons/html5.png" width="5%"/></a>  &nbsp;
     <a href="#"><img src="./icons/css3.png" width="5%"/></a>  &nbsp;
