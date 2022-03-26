@@ -1,7 +1,8 @@
 <img src="./images/judalabs-banner.png" alt="Judá Teixeira Software Labs' banner with the JudaLabs logo alongside a black and white picture of Judá">
 
-<h1>I'm Judá Teixeira. Welcome! 👋🏽</h1>
-<h3>A Full Stack developer and Computer Networks Engineer from Brazil</h3>
+<h1 align="center">I'm Judá Teixeira. Welcome! 👋🏽</h1>
+<h3 align="center">A Full Stack developer and Computer Networks Engineer from Brazil</h3>
+<div align="right">[![My top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjuda&theme=dark&layout=compact)](https://github.com/mrjuda/github-readme-stats)</div>
 <ul>
 <li>📍 Location: Natal, Brazil 🇧🇷</li>
 <li>🌱 I’m learning: JavaScript, React, Ruby, RoR, and + at Microverse.</li>
@@ -12,4 +13,4 @@
 
 [![Judá's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrjuda&show_icons=true&theme=dark)](https://github.com/mrjuda/github-readme-stats)
 
-[![My top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjuda&theme=dark&layout=compact)](https://github.com/mrjuda/github-readme-stats)
+<div align="right">[![My top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjuda&theme=dark&layout=compact)](https://github.com/mrjuda/github-readme-stats)</div>
