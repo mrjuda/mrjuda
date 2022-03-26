@@ -12,4 +12,5 @@
 ⚡ Fun fact: I play guitar, sing and write songs.<br>
 </p>
 
+<img align="justify" src="https://github-readme-stats.vercel.app/api?username=mrjuda&show_icons=true&theme=dark">
 [![Judá's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrjuda&show_icons=true&theme=dark)](https://github.com/mrjuda/github-readme-stats)
