@@ -17,10 +17,10 @@
 </p>
 
 <h2 align="center">📊 My stats</h2>
-<p>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjuda&theme=dark&layout=compact">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mrjuda&show_icons=true&theme=dark">
-</p>
+
 
 <h2 align="center">📱 How to reach me</h2>
 
