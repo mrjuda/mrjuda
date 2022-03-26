@@ -2,7 +2,7 @@
 
 <h1 align="center">I'm Judá Teixeira. Welcome! 👋🏽</h1>
 <h3 align="center">A Full Stack developer and Computer Networks Engineer from Brazil</h3>
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrjuda">
 <ul>
 <li>📍 Location: Natal, Brazil 🇧🇷</li>
 <li>🌱 I’m learning: JavaScript, React, Ruby, RoR, and + at Microverse.</li>
