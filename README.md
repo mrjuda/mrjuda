@@ -5,7 +5,7 @@
 
 <!-- <h2 align="center">😉 About me</h2> -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjuda&theme=dark&layout=compact" width="40%">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjuda&theme=dark&layout=compact" width="50%">
 
 <p>
 📍 Location: Natal, RN 🇧🇷</br>
