@@ -23,6 +23,6 @@
 
 </br>
 <h2 align="center">📊 My stats<br/></h2>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mrjuda&show_icons=true&theme=dark">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrjuda&show_icons=true&theme=dark&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjuda&theme=dark&layout=compact">
 
