@@ -17,16 +17,11 @@
 </p>
 
 </br>
-</br>
-<h2 align="center">📊 My stats<br/></h2>
-<div align="center">
-<a href="https://instagram.com/judalabs"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrjuda&show_icons=true&theme=dark&layout=compact"></a>
-</div>
-
-</br>
 <div>
   <h2 align="center">🥷🏽 What I do</h2>
   <a href="https://instagram.com/judalabs"><img align="right" src="https://github-readme-stats.vercel.app/api?username=mrjuda&show_icons=true&theme=dark&layout=compact"></a>
 
-  <a href="https://twitter.com/judalabs"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="5%"/></a>  &nbsp; <a href="https://www.linkedin.com/in/judateixeira/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/></a>  &nbsp; <a href="https://www.facebook.com/judalabs/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="5%"/></a>  &nbsp; <a href="https://instagram.com/judalabs"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="5%"/></a>
+  <a href="#"><img src="./icons/javascript.png" width="5%"/></a>  &nbsp;
+  <a href="#"><img src="./icons/html5.png" width="5%"/></a>  &nbsp;
+  <a href="#"><img src="./icons/css3.png" width="5%"/></a>  &nbsp;
 </div>
