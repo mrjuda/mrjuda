@@ -1,4 +1,4 @@
-<h1 align="center">I'm Judá Teixeira. Welcome!</h1>
+<h1>I'm Judá Teixeira. Welcome!</h1>
 <p>📍 Location: Natal, Brazil</p>
 <p>🌱 I’m learning: JavaScript, React, Ruby, RoR, and + at Microverse.</p>
 <p>💼 I'm currently looking for new opportunities</p>
