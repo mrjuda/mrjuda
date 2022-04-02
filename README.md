@@ -12,7 +12,7 @@
 🧒🏽 Pronouns: He / Him </br>
 🌱 I’m learning: Javascript, React, Ruby, and Ruby on Rails at Microverse</br>
 💼 I'm currently looking for new opportunities</br>
-💬 Ask me about: cooking, traveling Brazil and dogs</br>
+💬 Ask me about cooking, traveling, and dogs</br>
 🎵 I play guitar, sing and write songs</br>
 
 **📱 Get in touch:**</br>
