@@ -10,7 +10,7 @@
 <p>
 📍 Location: Natal, RN 🇧🇷</br>
 🧒🏽 Pronouns: He / Him </br>
-🌱 I’m learning: JavaScript, React, Ruby, RoR, and + at Microverse</br>
+🌱 I’m learning: Javascript, React, Ruby, and Ruby on Rails at Microverse</br>
 💼 I'm currently looking for new opportunities</br>
 💬 Ask me about: cooking, traveling Brazil and dogs</br>
 🎵 I play guitar, sing and write songs</br>
@@ -27,7 +27,7 @@
   <h2 align="center">🥷🏽 What I do</h2>
   <a href="https://instagram.com/judalabs"><img align="right" src="https://github-readme-stats.vercel.app/api?username=mrjuda&show_icons=true&theme=dark&layout=compact"></a>
   <div align="center">
-    <h4>Languages I speak</h4>
+    <h4>Coding Languages I work with</h4>
     <a href="#"><img src="./icons/javascript.png" width="5%"/></a>  &nbsp;
     <a href="#"><img src="./icons/html5.png" width="5%"/></a>  &nbsp;
     <a href="#"><img src="./icons/css3.png" width="5%"/></a>  &nbsp;
